@@ -1,0 +1,5 @@
+[package]
+name = 'raytracing-rs'
+version = '0.0.1'
+authors = ['Elias Serrano <feserr3@gmail.com>']
+edition = '2018'
